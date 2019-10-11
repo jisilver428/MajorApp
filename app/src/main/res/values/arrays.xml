@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>컴퓨터과학</item>
+        <item>소프트웨어학과</item>
+    </string-array>
+</resources>
