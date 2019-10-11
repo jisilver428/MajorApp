@@ -30,7 +30,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }
-
+//수정
     private SQLiteDatabase init_database(){
         SQLiteDatabase db=null;
         File file=new File(getFilesDir(), "contact.db");
