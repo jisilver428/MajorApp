@@ -1,4 +1,4 @@
-### MajorApp Title  
+### :school: MajorApp Title  
 My senier project  
 
 * first one  
