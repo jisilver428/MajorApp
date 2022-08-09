@@ -1,9 +1,9 @@
 ### :school: MajorApp Title  
 My senier project  
 
-* first one  
+:ballot_box_with_check: first one  
   * 1-1  
   * 1-2  
-* second one  
+:ballot_box_with_check: second one  
   * 2-1  
   * 2-2  
