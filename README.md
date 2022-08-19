@@ -1,3 +1,3 @@
 ### :school: MajorApp Title  
-My senier project  
+:smile: My senier project  
 
